@@ -1,4 +1,4 @@
 # JavaScript-e-HTML-desenvolva-um-jogo-e-pratique-logica-de-programacao
 
-Meus priemiros projetos envolveendo logica de programcao.
+Meus priemiros projetos envolveendo logica de programacao.
 -Alura
